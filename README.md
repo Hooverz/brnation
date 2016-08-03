@@ -1,2 +1,3 @@
-<center># BR NATION - 2016
-Todos os direitos reservados.</center>
+<center># BR NATION - 2016</center>
+
+<center>Todos os direitos reservados.</center>
